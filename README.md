@@ -8,6 +8,6 @@ Check out the YouTube video down below for quick code review and demonstration:
      <img 
       src="https://img.youtube.com/vi/ZH3jyq3X778/0.jpg" 
       alt="Everything Is AWESOME" 
-      height="400" width="575">
+      height="300" width="575">
       </a>
     </div>
